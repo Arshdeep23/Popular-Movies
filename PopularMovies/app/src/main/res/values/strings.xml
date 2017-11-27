@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="image_description">Image of the selected movie.</string>
+    <string name="movie_details_title">Movie Details</string>
+    <string name="error_message">No Internet Connection!!  Please try again.</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+</resources>
